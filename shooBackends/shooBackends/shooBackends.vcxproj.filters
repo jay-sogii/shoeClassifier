@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="DB.txt">
+    <Text Include="shoeDB.txt">
       <Filter>소스 파일</Filter>
     </Text>
   </ItemGroup>
